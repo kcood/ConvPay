@@ -13,3 +13,11 @@ Goal: 기능별 커밋 & 적절한 커밋 메시지
 
 ----
 ![스크린샷 2022-08-30 오후 5 14 28](https://user-images.githubusercontent.com/100116834/187385992-0ae35112-9e5a-45ca-b2d6-39379938a4d4.png)
+
+feat:001~003
+
+---
+![스크린샷 2022-08-30 오후 8 26 10](https://user-images.githubusercontent.com/100116834/187425106-08d739d7-d437-4aa9-9385-03d652c45959.png)
+
+![스크린샷 2022-08-30 오후 8 27 08](https://user-images.githubusercontent.com/100116834/187425116-bd77336b-f06c-44c4-99da-68daaac9506e.png)
+
