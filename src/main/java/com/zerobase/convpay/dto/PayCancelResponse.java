@@ -26,5 +26,13 @@ public class PayCancelResponse {
         this.payCancelResult = payCancelResult;
         this.payCanceledAmount = payCanceledAmount;
     }
+
+    @Override
+    public String toString() {
+        return "PayCancelResponse{" +
+                "payCancelResult=" + payCancelResult +
+                ", payCanceledAmount=" + payCanceledAmount +
+                '}';
+    }
 }
 
