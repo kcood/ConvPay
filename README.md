@@ -10,3 +10,6 @@
 Use: Spring
 
 Goal: 기능별 커밋 & 적절한 커밋 메시지
+
+----
+![스크린샷 2022-08-30 오후 5 14 28](https://user-images.githubusercontent.com/100116834/187385992-0ae35112-9e5a-45ca-b2d6-39379938a4d4.png)
