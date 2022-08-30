@@ -7,7 +7,7 @@
 
 ![스크린샷 2022-08-30 오후 5 10 54](https://user-images.githubusercontent.com/100116834/187385177-86d1c0ce-1474-48a2-902a-8fcd3fec767c.png)
 
-Use: Spring
+Use: Java -> Spring
 
 Goal: 기능별 커밋 & 적절한 커밋 메시지
 
