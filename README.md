@@ -28,3 +28,18 @@ feat:004~005
 ![스크린샷 2022-08-31 오전 11 00 17](https://user-images.githubusercontent.com/100116834/187576192-f26abb01-4ccc-4449-973a-0770be1de0b8.png)
 
 ![스크린샷 2022-08-31 오전 11 03 12](https://user-images.githubusercontent.com/100116834/187576473-20bae3b7-4127-454a-814b-c629b50dc3fa.png)
+
+feat:006
+
+---
+![스크린샷 2022-08-31 오전 11 28 39](https://user-images.githubusercontent.com/100116834/187579350-2c3758f3-90e6-442c-a979-91c1c17dee13.png)
+
+- 편결이가 구현체(money,card adaptor)를 다 들고있음
+- SOLID 지켰다기엔 뭔가 부족함
+
+![스크린샷 2022-08-31 오전 11 30 14](https://user-images.githubusercontent.com/100116834/187579538-276428fa-4b13-4b81-ba40-58d8bd41c0f6.png)
+
+![스크린샷 2022-08-31 오전 11 30 58](https://user-images.githubusercontent.com/100116834/187579600-682392bf-1564-488f-a472-8d85b05bc7be.png)
+
+- Config 클래스 만들어서 편결이가 어떤 구현체를 쓰는지 여기서 구성해주기
+- 편결이는 paymentInterface 통해서 결제만 해주면 됨
