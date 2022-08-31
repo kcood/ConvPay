@@ -40,7 +40,7 @@ class CardAdaptorTest {
         Integer cancelAmount = 1001;
 
         //when
-        CardUseCancelResult cardUseCancelResult = cardAdaptor.cancel_capture(cancelAmount);
+        CardUseCancelResult cardUseCancelResult = cardAdaptor.cancelCapture(cancelAmount);
 
         //then
         assertEquals(CardUseCancelResult.USE_CANCEL_SUCCESS, cardUseCancelResult);
@@ -52,7 +52,7 @@ class CardAdaptorTest {
         Integer cancelAmount = 999;
 
         //when
-        CardUseCancelResult cardUseCancelResult = cardAdaptor.cancel_capture(cancelAmount);
+        CardUseCancelResult cardUseCancelResult = cardAdaptor.cancelCapture(cancelAmount);
 
         //then
         assertEquals(CardUseCancelResult.USE_CANCEL_FAIL, cardUseCancelResult);
