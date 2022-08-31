@@ -43,3 +43,10 @@ feat:006
 
 - Config 클래스 만들어서 편결이가 어떤 구현체를 쓰는지 여기서 구성해주기
 - 편결이는 paymentInterface 통해서 결제만 해주면 됨
+
+feat:007
+
+---
+![스크린샷 2022-08-31 오후 12 46 29](https://user-images.githubusercontent.com/100116834/187588284-199bd926-8a41-471e-8d29-7512642b183c.png)
+
+
