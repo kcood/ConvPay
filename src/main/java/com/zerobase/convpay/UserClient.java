@@ -16,10 +16,11 @@ public class UserClient {
         //'사용자' -> 편결이 -> 머니
 
         //ApplicationConfig를 참고해서 ApplicationContext를 만들어줘
-        ApplicationContext applicationContext = new AnnotationConfigApplicationContext(ApplicationConfig.class);
+        ApplicationContext applicationContext =
+                new AnnotationConfigApplicationContext(ApplicationConfig.class);
 
-        ConveniencePayService conveniencePayService
-                = applicationContext.getBean("conveniencePayService", ConveniencePayService.class);
+        ConveniencePayService conveniencePayService =
+                applicationContext.getBean("conveniencePayService", ConveniencePayService.class);
 
         // G25, 1000원 결제
         PayRequest payRequest = new PayRequest(PayMethodType.CARD, ConvenienceType.G25, 50);
